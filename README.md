@@ -19,4 +19,9 @@ CSTSI will be a powerful and comprehensive tool for monitoring shoreline change.
 
 ## Contributors
 
-**Optional:** List the team members on this project
+Anna Mikkelsen / Climate Resilience Collab - UH Mānoa / abmikkelsen / abm20@hawaii.edu
+Richelle Moskvichev / Climate Resilience Collab - UH Mānoa/ rcabatic / rum@hawaii.edu 
+Erica Ta / Climate Resilience Collab - UH Mānoa/ taerica / ericata@hawaii.edu
+Joel Nicolow / Climate Resilience Collab - UH Mānoa / jcnicolowUH / jnicolow@hawaii.edu
+
+
